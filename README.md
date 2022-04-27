@@ -28,4 +28,4 @@ Beispiel: https://projects.kkapsner.de/Kalender/BayerischeFerien/?type=csv&noCac
 ## Quellen
 
 * [Kultusministerkonferenz](https://www.kmk.org/service/ferien.html)
-* [Bayerisches Kultusministerium](https://www.km.bayern.de/ministerium/termine/ferientermine.html)
+* [Bayerisches Kultusministerium](https://www.km.bayern.de/ministerium/termine/ferientermine.html) - um den Text auf der Seite in die korrekte Form zu bringen, gibt es [dieses Tool](https://projects.kkapsner.de/Kalender/BayerischeFerien/tools/ParseKuMiText.html).
