@@ -1,0 +1,115 @@
+Schuljahr 2012/2013
+	Sommerferien 2012: 01.08.2012-12.09.2012
+	unterrichtsfreie Tage um Allerheiligen 2012: 29.10.2012-03.11.2012
+	Weihnachtsferien 2012/2013: 24.12.2012-05.01.2013
+	Frühjahrsferien 2013: 11.02.2013-15.02.2013
+	Osterferien 2013: 25.03.2013-6.04.2013
+	Pfingstferien 2013: 21.05.2013-31.05.2013
+
+Schuljahr 2013/2014
+	Sommerferien 2013: 31.07.2013-11.09.2013
+	unterrichtsfreie Tage um Allerheiligen 2013: 28.10.2013-31.10.2013
+	Weihnachtsferien 2013/2014: 23.12.2013-04.01.2014
+	Frühjahrsferien 2014: 03.03.2014-07.03.2014
+	Osterferien 2014: 14.04.2014-26.04.2014
+	Pfingstferien 2014: 10.06.2014-21.06.2014
+
+Schuljahr 2014/2015
+	Sommerferien 2014: 30.07.2014-15.09.2014
+	unterrichtsfreie Tage um Allerheiligen 2014: 27.10.2014-31.10.2014
+	Weihnachtsferien 2014/2015: 24.12.2014-05.01.2015
+	Frühjahrsferien 2015: 16.02.2015-20.02.2015
+	Osterferien 2015: 30.03.2015-11.04.2015
+	Pfingstferien 2015: 26.05.2015-05.06.2015
+
+Schuljahr 2015/2016
+	Sommerferien 2015: 01.08.2015-14.09.2015
+	unterrichtsfreie Tage um Allerheiligen 2015: 02.11.2015-07.11.2015
+	Weihnachtsferien 2015/2016: 24.12.2015-05.01.2016
+	Frühjahrsferien 2016: 08.02.2016-12.02.2016
+	Osterferien 2016: 21.03.2016-01.04.2016
+	Pfingstferien 2016: 17.05.2016-28.05.2016
+
+Schuljahr 2016/2017
+	Sommerferien 2016: 30.07.2016-12.09.2016
+	unterrichtsfreie Tage um Allerheiligen 2016: 31.10.2016-04.11.2016
+	Weihnachtsferien 2016/2017: 24.12.2016-05.01.2017
+	Frühjahrsferien 2017: 27.02.2017-03.03.2017
+	Osterferien 2017: 10.04.2017-22.04.2017
+	Pfingstferien 2017: 06.06.2017-16.06.2017
+
+Schuljahr 2017/2018
+	Sommerferien 2017: 29.07.2017-11.09.2017
+	unterrichtsfreie Tage um Allerheiligen 2017: 30.10.2017-03.11.2017
+	Weihnachtsferien 2017/2018: 23.12.2017-05.01.2018
+	Frühjahrsferien 2018: 12.02.2018-16.02.2018
+	Osterferien 2018: 26.03.2018-07.04.2018
+	Pfingstferien 2018: 22.05.2018-02.06.2018
+
+Schuljahr 2018/2019
+	Sommerferien 2018: 30.07.2018-10.09.2018
+	unterrichtsfreie Tage um Allerheiligen 2018: 29.10.2018-02.11.2018
+	Weihnachtsferien 2018/2019: 22.12.2018-05.01.2019
+	Frühjahrsferien 2019: 04.03.2019-08.03.2019
+	Osterferien 2019: 15.04.2019-27.04.2019
+	Pfingstferien 2019: 11.06.2019-21.06.2019
+
+Schuljahr 2019/2010
+	Sommerferien 2019 : 29.07.2019-09.09.2019
+	unterrichtsfreie Tage um Allerheiligen 2019: 28.10.2019-31.10.2019
+	Weihnachtsferien 2019/2020: 23.12.2019-04.01.2020
+	Frühjahrsferien 2020: 24.02.2020-28.02.2020
+	Osterferien 2020: 06.04.2020-18.04.2020
+	Pfingstferien 2020: 02.06.2020-13.06.2020
+
+Schuljahr 2020/2021
+	Sommerferien 2020: 27.07.2020-07.09.2020
+	unterrichtsfreie Tage um Allerheiligen 2020: 31.10.2020-06.11.2020
+	Weihnachtsferien 2020/2021: 23.12.2020-09.01.2021
+	Osterferien 2021: 29.03.2021-10.04.2021
+	Pfingstferien 2021: 25.05.2021-04.06.2021
+
+Schuljahr 2021/2022
+	Sommerferien 2021 : 30.07.2021-13.09.2021
+	unterrichtsfreie Tage um Allerheiligen 2021: 02.11.2021-05.11.2021
+	Weihnachtsferien 2021/2022: 24.12.2021-08.01.2022
+	Frühjahrsferien 2022: 28.02.2022-04.03.2022
+	Osterferien 2022: 11.04.2022-23.04.2022
+	Pfingstferien 2022: 07.06.2022-18.06.2022
+
+Schuljahr 2022/2023
+	Sommerferien 2022: 01.08.2022-12.09.2022
+	unterrichtsfreie Tage um Allerheiligen 2022: 31.10.2022-04.11.2022
+	Weihnachtsferien 2022/2023: 24.12.2022-07.01.2023
+	Frühjahrsferien 2023: 20.02.2023-24.02.2023
+	Osterferien 2023: 03.04.2023-15.04.2023
+	Pfingstferien 2023: 30.05.2023-09.06.2023
+
+Schuljahr 2023/2024
+	Sommerferien 2023: 31.07.2023-11.09.2023
+	unterrichtsfreie Tage um Allerheiligen 2023: 30.10.2023-03.11.2023
+	Weihnachtsferien 2023/2024: 23.12.2023-05.01.2024
+	Frühjahrsferien 2024: 12.02.2024-16.02.2024
+	Osterferien 2024: 25.03.2024-06.04.2024
+	Pfingstferien 2024: 21.05.2024-01.06.2024
+
+Schuljahr 2024/2025
+	Sommerferien 2024: 29.07.2024-09.09.2024
+
+Schuljahr 2025/2026
+	Sommerferien 2025: 04.08.2025-15.09.2025
+
+Schuljahr 2026/2027
+	Sommerferien 2026: 03.08.2026-14.09.2026
+
+Schuljahr 2027/2028
+	Sommerferien 2027: 02.08.2027-13.09.2027
+
+Schuljahr 2028/2029
+	Sommerferien 2028: 31.07.2028-11.09.2028
+
+Schuljahr 2029/2030
+	Sommerferien 2029: 30.07.2029-10.09.2029
+
+Schuljahr 2030/2031
+	Sommerferien 2030: 29.07.2030-09.09.2030

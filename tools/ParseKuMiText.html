@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<title>Pare KuMi Text</title>
+	<style type="text/css">
+		html, body {
+			margin: 0;
+			height: 100%;
+			box-sizing: border-box;
+		}
+		textarea {
+			margin: 1em;
+			box-sizing: border-box;
+			width: calc(100% - 2em);
+			height: calc(100% - 2em);
+		}
+	</style>
+</head>
+<body>
+	<textarea></textarea>
+	<script type="text/javascript">
+		document.querySelector("textarea").addEventListener("change", function(){
+			this.value = this.value
+				.replace(/\s*vorlesen lassen/ig, "")
+				.replace(/\([^\)]*\)/g, "")
+				.replace(/Quelle:[^\n\r]+/g, "")
+				.replace(/\s+Januar\s+/g, "01.")
+				.replace(/\s+Februar\s+/g, "02.")
+				.replace(/\s+März\s+/g, "03.")
+				.replace(/\s+April\s+/g, "04.")
+				.replace(/\s+Mai\s+/g, "05.")
+				.replace(/\s+Juni\s+/g, "06.")
+				.replace(/\s+Juli\s+/g, "07.")
+				.replace(/\s+August\s+/g, "08.")
+				.replace(/\s+September\s+/g, "09.")
+				.replace(/\s+Oktober\s+/g, "10.")
+				.replace(/\s+November\s+/g, "11.")
+				.replace(/\s+Dezember\s+/g, "12.")
+				.replace(/\s+mit\s+/g, "-")
+				.replace(/[\n\r]+/g, "\n")
+				.replace(/(\D)(\d)(\D)/g, "$10$2$3")
+				.replace(/\s+:\s+/, ": ");
+		});
+	</script>
+</body>
+</html>
