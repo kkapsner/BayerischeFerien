@@ -12,9 +12,9 @@ eachFerien(function($name, $startDate, $endDate) use ($calendar, $nowString){
 	$event->dtstart = $startDate->format("Ymd");
 	$event->dtstart->VALUE = "DATE";
 	$event->dtstart->tzid = "Europe/Berlin";
-	$event->dtend = $endDate->format("Ymd");
-	$event->dtend->VALUE = "DATE";
-	$event->dtend->tzid = "Europe/Berlin";
+	$endDate->modify("+1 day");
+	$duration = $startDate->diff($endDate);
+	$event->duration = $duration->format("P%aD");
 	$event->summary = $name;
 	$event->categories = "Ferien";
 	$calendar->addChild($event);
