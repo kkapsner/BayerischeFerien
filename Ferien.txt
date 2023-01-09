@@ -95,21 +95,51 @@ Schuljahr 2023/2024
 
 Schuljahr 2024/2025
 	Sommerferien 2024: 29.07.2024-09.09.2024
+	unterrichtsfreie Tage um Allerheiligen 2024: 28.10.2024-31.10.2024
+	Weihnachtsferien 2024/2025: 23.12.2024-03.01.2025
+	Frühjahrsferien 2025: 03.03.2025-07.03.2025
+	Osterferien 2025: 14.04.2025-25.04.2025
+	Pfingstferien 2025: 10.06.2025-20.06.2025
 
 Schuljahr 2025/2026
-	Sommerferien 2025: 04.08.2025-15.09.2025
+	Sommerferien 2025: 01.08.2025-15.09.2025
+	unterrichtsfreie Tage um Allerheiligen 2025: 03.11.2025-07.11.2025
+	Weihnachtsferien 2025/2026: 22.12.2025-05.01.2026
+	Frühjahrsferien 2026: 16.02.2026-20.02.2026
+	Osterferien 2026: 30.03.2026-10.04.2026
+	Pfingstferien 2026: 26.05.2026-05.06.2026
 
 Schuljahr 2026/2027
 	Sommerferien 2026: 03.08.2026-14.09.2026
+	unterrichtsfreie Tage um Allerheiligen 2026: 02.11.2026-06.11.2026
+	Weihnachtsferien 2026/2027: 24.12.2026-08.01.2027
+	Frühjahrsferien 2027: 08.02.2027-12.02.2027
+	Osterferien 2027: 22.03.2027-02.04.2027
+	Pfingstferien 2027: 18.05.2027-28.05.2027
 
 Schuljahr 2027/2028
 	Sommerferien 2027: 02.08.2027-13.09.2027
+	unterrichtsfreie Tage um Allerheiligen 2027: 02.11.2027-05.11.2027
+	Weihnachtsferien 2027/2028: 24.12.2027-07.01.2028
+	Frühjahrsferien 2028: 28.02.2028-03.03.2028
+	Osterferien 2028: 10.04.2028-21.04.2028
+	Pfingstferien 2028: 06.06.2028-16.06.2028
 
 Schuljahr 2028/2029
 	Sommerferien 2028: 31.07.2028-11.09.2028
+	unterrichtsfreie Tage um Allerheiligen 2028: 30.10.2028-03.11.2028
+	Weihnachtsferien 2028/2029: 23.12.2028-05.01.2029
+	Frühjahrsferien 2029: 12.02.2029-16.02.2029
+	Osterferien 2029: 26.03.2029-06.04.2029
+	Pfingstferien 2029: 22.05.2029-01.06.2029
 
 Schuljahr 2029/2030
 	Sommerferien 2029: 30.07.2029-10.09.2029
+	unterrichtsfreie Tage um Allerheiligen 2029: 29.10.2029-02.11.2029
+	Weihnachtsferien 2029/2030: 24.12.2029-04.01.2030
+	Frühjahrsferien 2030: 04.03.2030-08.03.2030
+	Osterferien 2030: 15.04.2030-26.04.2030
+	Pfingstferien 2030: 11.06.2030-21.06.2030
 
 Schuljahr 2030/2031
 	Sommerferien 2030: 29.07.2030-09.09.2030
